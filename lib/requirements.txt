@@ -1,0 +1,9 @@
+joblib==1.0.1
+StrEnum==0.4.7
+numpy==1.21.0
+plotly==5.1.0
+ipywidgets==7.6.3
+ipython==8.3.0
+lib==4.0.0
+progressbar33==2.4
+tqdm==4.64.0

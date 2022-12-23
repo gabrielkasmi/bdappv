@@ -1,0 +1,11 @@
+*.nc
+.env
+.venv*
+.idea
+__pycache__
+ext
+
+.ipynb_checkpoints/
+*.jpg
+*.png
+/tmp/
