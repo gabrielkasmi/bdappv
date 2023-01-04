@@ -1,6 +1,6 @@
-# Purpose
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7476598.svg)](https://doi.org/10.5281/zenodo.7476598)
 
-This repository contains data and scripts of the [BDApPV](https://www.bdpv.fr/_BDapPV/) campaign of annotation of images of PV panels.
+# Purpose
 
 # Usage
 
